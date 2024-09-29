@@ -1,0 +1,59 @@
+2024-04-18 19:58:24,835 - Person added: Prem
+2024-04-18 20:00:55,228 - Person added: Cohee
+2024-04-18 20:01:08,686 - Person added: pohee
+2024-04-18 20:03:25,905 - Person added: poehero
+2024-04-18 20:08:16,250 - Person added: pshdfbhjho
+2024-04-18 20:14:18,521 - Person not found for deletion: None
+2024-04-18 20:15:51,815 - Person not found for deletion: None
+2024-04-18 20:16:26,123 - Person deleted: Prem
+2024-04-18 20:16:44,153 - Person not found for deletion: Cohees
+2024-04-18 20:16:47,215 - Person deleted: Cohee
+2024-04-18 20:21:08,855 - Person added: Prem
+2024-04-18 23:16:39,954 - Person added: Bruce Schneier
+2024-04-18 23:17:31,712 - Person deleted: pohee
+2024-04-18 23:18:07,080 - Person not found for deletion: oeher
+2024-04-19 14:39:24,974 - Person added: Rahul
+2024-04-19 14:41:53,604 - Person deleted: poehero
+2024-04-19 14:44:09,713 - Person deleted: Prem
+2024-04-19 14:47:10,641 - Person added: Prem krishna
+2024-04-19 15:09:37,390 - Person deleted: Prem krishna
+2024-04-19 15:10:22,093 - Person deleted with phone number: 1234577891
+2024-04-19 15:56:16,390 - Person added: Prem
+2024-04-19 18:34:57,905 - Person added: Krishna
+2024-04-19 18:37:50,612 - Person added: Avinash
+2024-04-19 18:39:12,483 - Person added: Rabbit Money
+2024-04-19 18:39:32,242 - Person added: Rabbit Moneyman
+2024-04-19 18:44:52,410 - Person deleted: Rabbit Money
+2024-04-19 18:46:09,748 - Person deleted: Rabbit Moneyman
+2024-04-19 18:46:25,926 - Person not found for deletion: Rabbit Moneyman
+2024-04-19 18:46:57,606 - Person not found for deletion: Rabbit Moneyman
+2024-04-19 18:48:10,837 - Person not found for deletion with phone number: 12345.12345
+2024-04-19 18:49:34,392 - Person not found for deletion: Rabbit Moneyman
+2024-04-19 18:50:22,167 - Person not found for deletion: Rabbit Moneyman
+2024-04-19 19:36:56,955 - Person added: Admin
+2024-04-19 19:37:48,737 - Person deleted: Prem
+2024-04-19 19:38:22,946 - Person deleted: Rahul
+2024-04-19 19:39:05,406 - Person not found for deletion with phone number: (530)778-098
+2024-04-19 19:39:13,378 - Person deleted with phone number: (530)778-0987
+2024-04-19 19:39:24,901 - Person deleted with phone number: (530)308-7053
+2024-04-19 19:39:33,455 - Person not found for deletion with phone number:  1(703)111-2121
+2024-04-19 19:52:42,823 - Person added: John Doe
+2024-04-19 19:52:42,830 - Person added: Alice Smith
+2024-04-19 19:52:42,844 - Person deleted: John Doe
+2024-04-19 19:52:42,850 - Person deleted with phone number: 54321
+2024-04-19 22:28:46,654 - Person added: John Doe
+2024-04-19 22:28:46,665 - Person added: Alice Smith
+2024-04-19 22:28:46,678 - Person deleted: John Doe
+2024-04-19 22:28:46,686 - Person deleted with phone number: 54321
+2024-04-19 22:37:36,586 - Person added: Schneier, Bruce
+2024-04-19 22:48:54,783 - Person added: Schneier, Bruce Wayne
+2024-04-19 22:50:03,007 - Person added: Brad Everett Samuel Smith
+2024-04-19 22:51:43,773 - Person deleted: Brad Everett Samuel Smith
+2024-04-19 22:55:44,244 - Person added: Bruce Santner
+2024-04-19 22:57:05,543 - Person added: Bruce Swason
+2024-04-19 22:57:21,310 - Person added: Bruce Swasoon
+2024-04-19 22:57:34,570 - Person added: Bruce Swasooon
+2024-04-19 22:58:49,620 - Person not found for deletion with phone number:  32 (21) 212-2324
+2024-04-19 22:59:44,076 - Person not found for deletion with phone number:  32 (21) 212-2324
+2024-04-19 23:00:28,853 - Person deleted: Bruce Swasoon
+2024-04-19 23:01:01,281 - Person deleted with phone number: 12345
